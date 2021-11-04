@@ -1,0 +1,42 @@
+[
+  {
+    "id"          : "00000001",
+    "userId"      : "eyun1",
+    "role"        : "ADMIN",
+    "firstName"   : "Edward",
+    "lastName"    : "Yun",
+    "desc"        : "A candidate for the job"
+  },
+  {
+    "id"          : "00000002",
+    "userId"      : "eyun2",
+    "role"        : "DEMOUSER",
+    "firstName"   : "Alisha",
+    "lastName"    : "Kim",
+    "desc"        : "A client from \"XYX Co.\""
+  },
+  {
+    "id"          : "00000003",
+    "userId"      : "eyun3",
+    "role"        : "DEMOUSER",
+    "firstName"   : "Steve",
+    "lastName"    : "John",
+    "desc"        : "A client from \"ABC\""
+  },
+  {
+    "id"          : "00000004",
+    "userId"      : "eyun4",
+    "role"        : "DEMOUSER",
+    "firstName"   : "John",
+    "lastName"    : "Doe",
+    "desc"        : "An employee from \"ABC\""
+  },
+  {
+    "id"          : "00000005",
+    "userId"      : "eyun5",
+    "role"        : "DEMOUSER",
+    "firstName"   : "Jane",
+    "lastName"    : "Doe",
+   " desc"        : "A Clientt from \"TMC\""
+  }
+]

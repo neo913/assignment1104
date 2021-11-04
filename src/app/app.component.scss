@@ -1,0 +1,39 @@
+body {
+  font-size: 14px;
+}
+.main {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._container {
+  display: flex;;
+  flex-direction: column;
+  .card-section {
+    display: flex;
+    align-self: center;
+    max-width: 400px;
+    overflow: auto;
+    display: flex;
+    flex-direction: row;
+    mat-card:hover {
+      cursor: pointer;
+    }
+  }
+
+  ._search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.4rem;
+    border: 1px solid #e2e2e2;
+    border-radius: 5px;
+  }
+}
+
+
+._photo img {
+  max-width: 300px;
+}
